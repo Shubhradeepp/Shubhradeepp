@@ -17,4 +17,4 @@ const skills = {
     tools: ['Git', 'Postman', 'VS Code', 'Android Studio', 'MongoDB Compass'],
     ai: ['Google Gemini', 'AI Model Training']
 }
-
+```
