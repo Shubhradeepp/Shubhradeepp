@@ -1,6 +1,6 @@
-# 👋 Hi, I'm @Shubhradeepp
+# 👋 Hi, I'm @Shubhradeep
 
-- 👀 I'm a Full Stack Software Development, Backend Engineer
+- 👀 I'm a Full Stack Software Developer, Backend Engineer
 - 🌱 I'm currently learning Advanced React Patterns, UI/UX Design Principles & Component Architecture
 - 💞️ I'm looking to collaborate on some fun, interesting projects. :) 
 - 📫 How to reach me: shubhradeepmaity3@gmail.com
