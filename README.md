@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shubhradeep
+# 👋 Hi, I'm Shubhradeep 
 
 # 💫 About Me:
 👀 I'm a Full Stack Software Developer, Backend Engineer<br>🌱 I'm currently learning Advanced React Patterns, UI/UX Design Principles & Component Architecture<br>💞️ I'm looking to collaborate on some fun, interesting projects. :)<br>📫 How to reach me: shubhradeepmaity3@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I Build Smart Solutions for Real Problems or Bringing Ideas to Life Through Code & Creativity
