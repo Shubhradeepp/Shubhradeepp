@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shubhradeep Maity
+# 👋 Hi, I'm Shubhradeep Maity 
 
 # 💫 About Me:
 👀  I’m a Full-Stack Software Engineer with 1+ years of expertise in React, TypeScript, Node.js, Spring Boot, Java, Express.js, MongoDB, and PostgreSQL, building secure, scalable, SEO-optimized, and high-performance applications<br>🌱 I'm currently learning Advanced React Patterns, UI/UX Design Principles & Component Architecture<br>💞️ I'm looking to collaborate on some fun, interesting projects. :)<br>📫 How to reach me: shubhradeepmaity3@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I Build Smart Solutions for Real Problems or Bringing Ideas to Life Through Code & Creativity
